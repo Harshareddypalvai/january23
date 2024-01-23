@@ -4,3 +4,8 @@ if else()
 {
 	labdab
 }
+
+while(j<2)
+{
+	print (abrakabadra)
+}
