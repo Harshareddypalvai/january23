@@ -5,9 +5,22 @@ if ()
 	harry
 }
 
+
 if else()
 {
 	labdab
 
 	printf("we will do it"),
+}
+
+while(j<2)
+{
+	print (abrakabadra)
+}
+
+echo "happie birthday"
+
+if ()
+{
+	harry
 }
