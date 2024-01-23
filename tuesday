@@ -8,4 +8,6 @@ if ()
 if else()
 {
 	labdab
+
+	printf("we will do it"),
 }
